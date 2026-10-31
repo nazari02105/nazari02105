@@ -129,6 +129,11 @@ Teaching assistant at Sharif University of Technology. I helped design and grade
 - **Web Development Bootcamp**, Maktab Sharif, Iran · Oct 2021 – Apr 2022<br>
   Six-month bootcamp on web programming with PHP, Laravel and MySQL.
 
+## 📜 Certificates
+
+- **Udemy:** [AI Voice Assistant](https://www.udemy.com/certificate/UC-5d3948a0-379e-4bba-8bdc-01d8e227efef/) · [Natural Language Processing](https://www.udemy.com/certificate/UC-59fa75ce-06aa-42cb-a666-206b3b1f270b/) · [NLP with Transformers](https://www.udemy.com/certificate/UC-a0d0644a-6708-45f7-b7f6-93101e3e0283/) · [Face Recognition](https://www.udemy.com/certificate/UC-d6d85109-afb6-4fa6-b3b4-16a8ebf35766/) · [OpenCV in Java](https://www.udemy.com/certificate/UC-098dcbf8-ead0-40cd-b511-96d5177c5ee1/) · [Intro to Machine Learning](https://www.udemy.com/certificate/UC-5707ce69-aaf7-4e1f-8f05-23d988462cd0/)
+- **Maktabkhooneh:** [Intro to Python Programming](https://maktabkhooneh.org/certificates/MK-YNKPRJ/) · [Advanced Python Programming](https://maktabkhooneh.org/certificates/MK-1S63UK/)
+
 ## 🎓 Education
 
 - **M.Sc. Computer Science**, Dresden University of Technology, Germany · Oct 2026 – present
