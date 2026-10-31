@@ -19,7 +19,7 @@ I am a first-year M.Sc. student in Computer Science at **Dresden University of T
 
 My research is about building and evaluating **reliable and efficient AI systems**. I have co-authored five papers, at venues including **ICML**, **ACL Findings** and **CVPR**. I have worked with research groups in Germany, Denmark and the United States.
 
-Before research, I worked on software and data engineering: C#/ASP.NET back ends, ETL pipelines, web apps and networked systems. Many of these projects are on this profile.
+I have also worked in industry as an **AI Engineer**, building agentic LLM systems with LangGraph and LangChain for legal contracts, engineering documents and financial services. Earlier, I worked on software and data engineering: C#/ASP.NET back ends, ETL pipelines, web apps and networked systems. Many of these projects are on this profile.
 
 ## 📰 News
 
@@ -120,6 +120,10 @@ Teaching assistant at Sharif University of Technology. I helped design and grade
 
 ## 💼 Industry experience
 
+- **AI Engineer**, Avitec, Iran · May 2026 – Oct 2026<br>
+  Built an agentic AI contract assistant for legal contract tasks, and AI features for a BI dashboard for engineering documents: summaries across all documents and chat over the platform's data. LangGraph, LangChain, LLMs and RAG.
+- **AI Engineer**, Hesabo, Iran · May 2025 – May 2026<br>
+  Built an agentic AI platform for financial services with LangGraph and LangChain, Django back-end services, and voice interaction with Speech-to-Text and Text-to-Speech.
 - **Data Engineering Intern**, Code Star, Iran · Jul 2022 – Dec 2022<br>
   Software and data engineering with C# and ASP.NET: ETL, ORM, Elasticsearch and Spark.
 - **Web Development Bootcamp**, Maktab Sharif, Iran · Oct 2021 – Apr 2022<br>
